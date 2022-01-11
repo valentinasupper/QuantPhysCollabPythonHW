@@ -16,8 +16,8 @@ This homework assignment is to establish best practices for creating a collabora
       - Install Spyder from the Applications pane
       -	Launch Spyder
       -	In a new file on the left, delete any placehold text, then type or copy/paste: 
-        -	print(“Hello Quantitative Physiology Class”)
-      - In the top menu, click File – Save As and name your program as “LastName_FirstScript.py” (where LastName should be replaced by your last name, so for Dr. FerrallFairbanks the sample code would be. “FerrallFairbanks_FirstScript.py”
+        -	`print(“Hello Quantitative Physiology Class”)`
+      - In the top menu, click File – Save As and name your program as `LastName_FirstScript.py` (where LastName should be replaced by your last name, so for Dr. FerrallFairbanks the sample code would be: `FerrallFairbanks_FirstScript.py`
       - Run your new program by clicking the triangle Run button
       -	You should be able to see your program’s output in the bottom right of the Console pane.
       -	To close Spyder, go to the top menu bar, select Spyder – Quit Spyder. 
