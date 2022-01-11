@@ -1,8 +1,6 @@
 # BME4409 Quantitative Physiology - Spring 2022
 
-For <i>**Assignment - Establishing a collaborative python environment**</i> you are charged with downloading and installing python (which will come in useful later in the semester when you use Neuron) and contributing to a collaborative coding repository. 
-
-This homework assignment is to establish best practices for creating a collaborate coding environment. This will be important as you start working on your Semester Project with your group. 
+For the <i>**Assignment - Establishing a collaborative python environment**</i>, you are charged with two tasks: (1) downloading and installing python (which will come in useful later in the semester when you use <i>Neuron</i>) and (2) contributing to a collaborative coding repository. This assignment is to help establish best practices for creating a collaborate coding environment, which will be important as you start working on your Semester Project. 
  
 **Task 1**: Download and **install python**
 -	Install Python 3.9. There are many potential choices of ways to do this, but the easiest is likely using Acaconda:	https://www.anaconda.com/products/individual
